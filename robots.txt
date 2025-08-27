@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moonlitpath.tech/sitemap.xml
